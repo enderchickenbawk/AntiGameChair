@@ -1,2 +1,2 @@
-# AntiGameChair
+# AntiGamingChair
 MineManAntiCheat
